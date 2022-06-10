@@ -221,6 +221,7 @@ section{
 
 .intro h2 {
 
+    color: #fce138;
 
 }
 
@@ -352,4 +353,14 @@ section{
   }
 
 /* Meet The Trainers Start*/
-  
+
+
+/* Reach-out Start*/  
+
+.reach {
+
+    text-align: center;
+    background-color: #024e76;
+}
+
+/* Reach-out End*/ 
