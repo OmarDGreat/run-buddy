@@ -39,7 +39,7 @@ body {
    
     /* Personal Change no required in lesson */
     margin: 10px;
-    font-weight: lighter;
+    font-weight: 600;
 
 }
 
@@ -400,7 +400,7 @@ section{
 .contact-info a {
 
     color: #fce138;
-    
+
   }
 
 
@@ -412,5 +412,4 @@ section{
 }
 
 /* Reach-out End*/ 
-
 

@@ -1,0 +1,73 @@
+/*-------------------------------------SECONDARY PAGE EXCLUSIVE STYLE-----------------------------------------------*/
+
+/* Privacy Policy Start*/
+.page-title {
+
+    color: #fce138;
+    font-size: 42px;
+    font-style: italic;
+    border-bottom: 5px solid;
+    margin: 0 auto 30px auto;
+    text-align: center;
+    padding: 0 80px 15px 80px;
+    display: inline-block;
+    font-weight: 600;
+}
+
+/* Hero Style Start */
+
+
+.hero {
+
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+
+  }
+
+/* Hero Style End */
+
+.secondary-content {
+
+width: 80%;
+text-align: left;    
+margin: 0 auto;
+padding: 0 80px 15px 80px;
+box-sizing: border-box;
+color: #024e76;
+
+}
+
+.secondary-content h3 {
+
+    font-size: 25px;
+    margin: 20px 0;
+    font-weight: bolder;
+    
+}
+
+.secondary-content p {
+
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0;
+    color: #668ac0;
+}
+
+.secondary-content ul {
+
+    margin: 15px 20px;
+}
+
+.secondary-content li {
+
+    color: #39a6b2;
+    margin: 10px 0;
+}
+
+
+
+/* Privacy Policy End*/
+
+
