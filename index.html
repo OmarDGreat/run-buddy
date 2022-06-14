@@ -84,14 +84,19 @@
                 
                 <!-- Add form element -->
                 <form>
-                    <label for="name">Enter full name:</label>
-                    <input type="text" placeholder="Your Name" name="name" id="name" class="form-input"/>
+                    
+                    <div class="contact-form">
 
-                    <label for="email">Enter email address:</label>
-                    <input type="email" placeholder="Email Address" name="email" id="email" class="form-input" />
-                   
-                    <label for="phone-number">Enter phone number:</label>
-                    <input type="tel" placeholder="Phone Number" name="phone" id="phone" class="form-input"/>
+                        <label for="name">Enter full name:</label>
+                        <input type="text" placeholder="Your Name" name="name" id="name" class="form-input"/>
+                        
+                        <label for="email">Enter email address:</label>
+                        <input type="email" placeholder="Email Address" name="email" id="email" class="form-input" />
+                        
+                        <label for="phone-number">Enter phone number:</label>
+                        <input type="tel" placeholder="Phone Number" name="phone" id="phone" class="form-input"/>
+                    
+                    </div>
 
                     <p>
                         Have you worked out with a trainer before?
@@ -320,9 +325,11 @@
                         
                 <!---->
 
-                <div class="contact-form">
+                <div>
                     <h3>Contact Us</h3>
-                    <form>
+                    
+                    <form class="contact-form">
+
                        <label for="contact-name">Your Name</label>
                        <input type="text" id="contact-name" placeholder="Your Name" />
                   
@@ -330,6 +337,7 @@
                        <textarea id="contact-message" placeholder="Message"></textarea>
                   
                        <button type="submit">Submit</button>
+                       
                     </form>
                 </div>    
 

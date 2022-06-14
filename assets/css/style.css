@@ -448,6 +448,15 @@ section{
     width: 100%;
     margin-bottom: 15px;
     margin-top: 5px;
+    
+}
+
+.contact-form ::placeholder {
+
+color:#39a6b2;
+font-weight: bold;
+font-size: 20px;
+
 }
 
 .contact-form button {
